@@ -2,6 +2,6 @@
 import numpy as numpy
 
 a = 3 + 5
-b = 1 + 4
+b = 1 + 7
 print(a)
 print(b)
